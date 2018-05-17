@@ -1,7 +1,9 @@
 Markdown: Basics
 ================
 
-The original web link is <a href="https://daringfireball.net/projects/markdown/basics" title="Markdown Basics">here</a>.
+The original web link of this document is <a href="https://daringfireball.net/projects/markdown/basics" title="Markdown Basics">here</a>.
+
+The description of basic writing and formatting syntax on Github is <a href="https://help.github.com/articles/basic-writing-and-formatting-syntax/" title="Markdown Basics on Github">here</a>.
 
 <ul id="ProjectSubmenu">
     <li><a class="selected" title="Markdown Basics">Basics</a></li>
