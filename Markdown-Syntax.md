@@ -1,6 +1,8 @@
 Markdown: Syntax
 ================
 
+The original web link of this document is <a href="https://daringfireball.net/projects/markdown/syntax">here</a>.
+
 <ul id="ProjectSubmenu">
     <li><a href="Markdown-Basic.md" title="Markdown Basics">Basics</a></li>
     <li><a class="selected" title="Markdown Syntax Documentation">Syntax</a></li>
