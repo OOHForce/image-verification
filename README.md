@@ -1,4 +1,4 @@
-# image-verification
+# Image Verification
 
 ### 上刊图存放目录
 
