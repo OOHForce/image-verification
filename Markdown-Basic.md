@@ -7,7 +7,7 @@ The description of basic writing and formatting syntax on Github is <a href="htt
 
 <ul id="ProjectSubmenu">
     <li><a class="selected" title="Markdown Basics">Basics</a></li>
-    <li><a href="syntax" title="Markdown Syntax Documentation">Syntax</a></li>
+    <li><a href="Markdown-Syntax.md" title="Markdown Syntax Documentation">Syntax</a></li>
 </ul>
 
 
