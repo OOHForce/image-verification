@@ -4,9 +4,9 @@
 
 请将样例图片上传至**image-samples**文件夹，并分类保存：
 
-+ **qualified standard images**文件夹存放**合格**的图片；
-+ **unqualified images**文件夹存放**不合格**的图片；
-+ **uncertained**文件夹存放**暂不明确**是否合格的图片。
++ **qualified**文件夹存放**合格**的图片；
++ **unqualified**文件夹存放**不合格**的图片；
++ **to-be-verified**文件夹存放**待检验**是否合格的图片。
 
 ### 上刊图是否合格的判断标准
 
